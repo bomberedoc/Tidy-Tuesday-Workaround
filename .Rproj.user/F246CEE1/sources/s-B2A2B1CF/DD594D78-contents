@@ -1,4 +1,0 @@
-race_data = read.csv('https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-10-26/race.csv')
-ultrad_ranking_data = read.csv('https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-10-26/ultra_rankings.csv')
-
-read.csv(text = RCurl::getURL('https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-10-26/race.csv'))
